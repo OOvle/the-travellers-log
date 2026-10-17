@@ -1,8 +1,9 @@
 ---
 publish: true
 title: Welcome to The Traveller's Log
+description: Embark on adventure!
 created: 2026-10-17T19:06:55.199Z
-modified: 2026-10-17T17:54:46.395Z
+modified: 2026-10-17T19:18:15.023Z
 ---
 
 Here you can find everything you need to know about how to play The Traveller's Log!
