@@ -1,5 +1,8 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
+  site:
+    title: "The Traveller's Log"
+    description: "Learn how to play!"
   pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
