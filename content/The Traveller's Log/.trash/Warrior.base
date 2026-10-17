@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: View
+    order: []
+  - type: table
+    name: View 2

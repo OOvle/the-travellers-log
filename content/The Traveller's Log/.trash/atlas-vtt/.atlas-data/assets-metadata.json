@@ -1,0 +1,295 @@
+{
+  "collections": {
+    "Default": {
+      "id": "Default",
+      "uid": "548ad283-d44c-40c9-9c3f-57c48efd4009",
+      "version": 1,
+      "name": "Default",
+      "description": "Default collection",
+      "tags": {
+        "tokens:class": {
+          "id": "class",
+          "name": "Class",
+          "group": "tokens"
+        }
+      },
+      "settings": {
+        "conditions": []
+      },
+      "createdAt": 1790853760974,
+      "modifiedAt": 1790853760974
+    },
+    "The Traveller's Log": {
+      "id": "The Traveller's Log",
+      "uid": "0331746b-031a-49f7-b31f-e46010ca5ad1",
+      "version": 1,
+      "name": "The Traveller's Log",
+      "tags": {},
+      "settings": {
+        "conditions": [
+          {
+            "id": "9bebf776-6582-41e4-9a11-e82212393c80",
+            "name": "Blinded",
+            "color": "#3d1259",
+            "icon": "blindfold"
+          },
+          {
+            "id": "d9d26f22-9202-4b2d-b66f-b21a188607e7",
+            "name": "Charmed",
+            "color": "#fe90ef",
+            "icon": "heart"
+          },
+          {
+            "id": "740e7d7c-fea3-4db9-8520-e2504f7cda0b",
+            "name": "Conduit",
+            "color": "#a80000",
+            "icon": "lightning"
+          },
+          {
+            "id": "cb391276-150e-4429-bee9-592d5af649f9",
+            "name": "Dazed",
+            "color": "#a85a00",
+            "icon": "knocked-out-stars"
+          },
+          {
+            "id": "7afce582-0de5-400a-9471-9ce644f18dd8",
+            "name": "Deafened",
+            "color": "#610000",
+            "icon": "hearing-disabled"
+          },
+          {
+            "id": "68f54cea-0b34-48a8-9674-0d43407b704d",
+            "name": "Grappled",
+            "color": "#fec086",
+            "icon": "grab"
+          },
+          {
+            "id": "3f2f8e8c-23ef-4611-a359-f96e67f99eed",
+            "name": "Hasted",
+            "color": "#99ffe0",
+            "icon": "stopwatch"
+          },
+          {
+            "id": "88716a23-25ac-4d80-8678-30d257d98707",
+            "name": "Petrified",
+            "color": "#575757",
+            "icon": "gem"
+          },
+          {
+            "id": "794768b0-69d1-4ef9-879d-0e9fdd51373a",
+            "name": "Rooted",
+            "color": "#275502",
+            "icon": "foot-trip"
+          },
+          {
+            "id": "e4f1e78b-9d51-4e73-888d-87038abba1a1",
+            "name": "Slowed",
+            "color": "#2f1792",
+            "icon": "weight"
+          },
+          {
+            "id": "04ac2687-2519-4cba-97e5-50696b206a39",
+            "name": "Stunned",
+            "color": "#000000",
+            "icon": "stoned-skull"
+          },
+          {
+            "id": "aebd44f7-fd1d-4e48-ba75-6590c665b47f",
+            "name": "Swift",
+            "color": "#f5e95b",
+            "icon": "run"
+          },
+          {
+            "id": "70891077-2a02-4e57-ae7b-2156e498b532",
+            "name": "Taunted",
+            "color": "#ffa200",
+            "icon": "screaming"
+          },
+          {
+            "id": "c761ba37-d1e6-4ddf-91ec-6c342edb91a7",
+            "name": "Terrified",
+            "color": "#63087d",
+            "icon": "terror"
+          },
+          {
+            "id": "fe153903-634a-4c71-b60d-8923ab5fb357",
+            "name": "Unconscious",
+            "color": "#ebaa56",
+            "icon": "sleepy"
+          },
+          {
+            "id": "b8b4aa6a-051b-44e4-826c-b952570c80a9",
+            "name": "Protective Light",
+            "color": "#fdfed7",
+            "icon": "shield"
+          }
+        ],
+        "gridDefaults": {
+          "unitType": "custom",
+          "unitDistance": 1,
+          "measurementMode": "metric",
+          "diagonalRule": "alternating",
+          "abstractRangeBands": []
+        },
+        "defaultWidgets": {
+          "hpBar": true,
+          "initiativeTracker": true,
+          "stressBar": true
+        },
+        "systemPresetId": "b0ac76f5-d252-41f3-ba74-5af0b3c8fcb4",
+        "customCreatureFilters": [],
+        "hiddenCreatureFilters": [],
+        "lootBases": [],
+        "lootCurrency": "dosh"
+      },
+      "createdAt": 1790953779902,
+      "modifiedAt": 1791068314563,
+      "publisherId": "82d55a48-98cf-4d03-8b5e-0e3f71d5dc95"
+    }
+  },
+  "defaultCollectionId": "Default",
+  "assets": {
+    "token-1790853761070-4alvzs": {
+      "name": "Cleric",
+      "imagePath": "atlas-vtt/assets/Cleric_1790853761068_ro2qfk.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761070-4alvzs",
+      "createdAt": 1790853761070,
+      "modifiedAt": 1790853761070,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Cleric_1790853761068_ro2qfk-93b1c908.webp"
+    },
+    "token-1790853761083-qb8v99": {
+      "name": "Fighter",
+      "imagePath": "atlas-vtt/assets/Fighter_1790853761073_l85xnt.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761083-qb8v99",
+      "createdAt": 1790853761083,
+      "modifiedAt": 1790853761083,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Fighter_1790853761073_l85xnt-e15ece8b.webp"
+    },
+    "token-1790853761100-21tiar": {
+      "name": "Paladin",
+      "imagePath": "atlas-vtt/assets/Paladin_1790853761098_aseu89.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761100-21tiar",
+      "createdAt": 1790853761100,
+      "modifiedAt": 1790853761100,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Paladin_1790853761098_aseu89-e3bbe218.webp"
+    },
+    "token-1790853761116-0ckqbb": {
+      "name": "Ranger",
+      "imagePath": "atlas-vtt/assets/Ranger_1790853761114_n2jesw.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761116-0ckqbb",
+      "createdAt": 1790853761116,
+      "modifiedAt": 1790853761116,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Ranger_1790853761114_n2jesw-253e89ff.webp"
+    },
+    "token-1790853761122-n1tjlj": {
+      "name": "Rogue",
+      "imagePath": "atlas-vtt/assets/Rogue_1790853761121_i4rgzq.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761122-n1tjlj",
+      "createdAt": 1790853761122,
+      "modifiedAt": 1790853761122,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Rogue_1790853761121_i4rgzq-696bd2fc.webp"
+    },
+    "token-1790853761141-yn0mxd": {
+      "name": "Warlock",
+      "imagePath": "atlas-vtt/assets/Warlock_1790853761140_ye3yy6.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761141-yn0mxd",
+      "createdAt": 1790853761141,
+      "modifiedAt": 1790853761141,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Warlock_1790853761140_ye3yy6-9ad54298.webp"
+    },
+    "token-1790853761148-p4z9he": {
+      "name": "Wizard",
+      "imagePath": "atlas-vtt/assets/Wizard_1790853761146_h7twpv.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761148-p4z9he",
+      "createdAt": 1790853761148,
+      "modifiedAt": 1790853761148,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Wizard_1790853761146_h7twpv-d8b7e0c5.webp"
+    },
+    "token-1790853761197-k4i3ru": {
+      "name": "Knight",
+      "imagePath": "atlas-vtt/assets/Knight_1790853761195_i926au.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761197-k4i3ru",
+      "createdAt": 1790853761197,
+      "modifiedAt": 1790853761197,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Knight_1790853761195_i926au-01234b91.webp"
+    },
+    "token-1790853761217-rbp4p7": {
+      "name": "Assassin",
+      "imagePath": "atlas-vtt/assets/Assassin_1790853761215_aqe01p.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761217-rbp4p7",
+      "createdAt": 1790853761217,
+      "modifiedAt": 1790853761217,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Assassin_1790853761215_aqe01p-7a553f1e.webp"
+    },
+    "token-1790853761223-xjfh2f": {
+      "name": "Occultist",
+      "imagePath": "atlas-vtt/assets/Occultist_1790853761222_iq41s0.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1790853761223-xjfh2f",
+      "createdAt": 1790853761223,
+      "modifiedAt": 1790853761223,
+      "thumbnailPath": "atlas-vtt/assets/thumbnails/Occultist_1790853761222_iq41s0-e2a939cb.webp"
+    }
+  },
+  "version": 2,
+  "vaultId": "82d55a48-98cf-4d03-8b5e-0e3f71d5dc95"
+}
