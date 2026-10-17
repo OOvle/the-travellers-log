@@ -1,7 +1,10 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:54.036Z
+modified: 2026-10-17T18:02:15.837Z
 ---
-![[Weapons (28).png]]
+
+![[RPG Icons/Items/Weapons/Weapons (28).png]]
 **Stat**: MGT
 **[[8. Items#Weapons|Tags]]**: #Melee, #Slash, #Stab, #2-Handed, #Tier_1
 **Value**: 1,050 dosh

@@ -1,11 +1,14 @@
 ---
+publish: true
 title: Welcome to The Traveller's Log
-subtitle: Written by BlepMuffin
-publish: "true"
+created: 2026-10-17T18:12:53.976Z
+modified: 2026-10-17T17:54:46.395Z
 ---
+
 Here you can find everything you need to know about how to play The Traveller's Log!
 
 Basic table of contents:
+
 - [[1. Welcome To The Traveller's Log|Chapter 1: Welcome]]
 - [[2. Core Rules|Chapter 2: Core Rules]]
 - [[3. Character Creation|Chapter 3: Character Creation]]
@@ -19,4 +22,5 @@ Basic table of contents:
 - [[11. Game Master's Tools|Chapter 11: Game Master's Tools]]
 
 ---
+
 ## [[LICENSE]]

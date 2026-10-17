@@ -1,6 +1,9 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:53.973Z
+modified: 2026-10-17T18:02:15.455Z
 ---
+
 #### [[10. Character Encyclopedia#Categories|Beast]], Grunt
 
 | Stat | Value          | Stat       | Value |
@@ -11,7 +14,9 @@ publish: "true"
 | WLL  | 0              | Block Roll | 1d6   |
 | WIS  | 0              | Dodge Roll | 1d6   |
 | Size | Small ~ Medium | Prowess    | 1     |
+
 ### Abilities
+
 **Overkill**: Passive
 When this character takes damage, any damage above its remaining health may be retargeted to another grunt within range of the same attack.
 

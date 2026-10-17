@@ -1,7 +1,10 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:53.996Z
+modified: 2026-10-17T18:02:15.614Z
 ---
-![[Misc (3).png]]
+
+![[RPG Icons/Items/Misc/Misc (3).png]]
 **[[8. Items#Consumables|Tags]]**: #Consumable, #Restorative, #Tier_2
 **Value**: 2,500 dosh
 **Effect**: Restore 1d6+1 energy to the imbiber.
