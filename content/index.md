@@ -1,8 +1,8 @@
 ---
 title: Welcome to The Traveller's Log
 subtitle: Written by BlepMuffin
+publish: "true"
 ---
-
 Here you can find everything you need to know about how to play The Traveller's Log!
 
 Basic table of contents:
@@ -19,5 +19,4 @@ Basic table of contents:
 - [[11. Game Master's Tools|Chapter 11: Game Master's Tools]]
 
 ---
-
 ## [[LICENSE]]
