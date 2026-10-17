@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Welcome to The Traveller's Log
-created: 2026-10-17T18:12:53.976Z
+created: 2026-10-17T19:06:55.199Z
 modified: 2026-10-17T17:54:46.395Z
 ---
 
