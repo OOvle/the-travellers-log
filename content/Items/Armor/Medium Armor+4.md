@@ -1,7 +1,10 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:53.993Z
+modified: 2026-10-17T18:02:15.598Z
 ---
-![[Equipment (124).png]]
+
+![[RPG Icons/Items/Equipment/Equipment (124).png]]
 Increase your **normal [[2. Core Rules#Innate Defense|innate defense]]** by +2 and your block roll by +3.
 **[[8. Items#Armor|Tags]]**: #Armor, #Medium, #Tier_5
 **Value**: 5,650,000 dosh

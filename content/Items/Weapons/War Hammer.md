@@ -1,7 +1,10 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:54.047Z
+modified: 2026-10-17T18:02:15.964Z
 ---
-![[Weapons (47).png]]
+
+![[RPG Icons/Items/Weapons/Weapons (47).png]]
 **Stat**: MGT
 **[[8. Items#Weapons|Tags]]**: #Melee, #Blunt, #2-Handed, #Weighted, #Tier_1
 **Value**: 1,300 dosh

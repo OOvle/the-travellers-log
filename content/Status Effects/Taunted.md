@@ -1,6 +1,9 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:56.868Z
+modified: 2026-10-17T18:02:16.172Z
 ---
+
 While you are taunted, you are compelled to attack your taunter, suffering [[2. Core Rules#Favor & Disfavor|disfavor]] to all attack and ability rolls against characters that are not your taunter.
 
 [[2. Core Rules#Status Effects|Return]]

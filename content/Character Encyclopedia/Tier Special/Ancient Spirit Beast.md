@@ -1,6 +1,9 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:53.974Z
+modified: 2026-10-17T18:02:15.464Z
 ---
+
 #### [[10. Character Encyclopedia#Categories|Spirit & Beast]], General
 
 | Stat | Value   | Stat       | Value          |
@@ -11,7 +14,9 @@ publish: "true"
 | WLL  | 8       | Block Roll | 1d12+20        |
 | WIS  | 4       | Dodge Roll | 1d12+4         |
 | Size | Massive | Prowess    | 8              |
+
 ### Abilities
+
 **Ancient Spirt**: Passive
 Normal, Elemental, and Special [[2. Core Rules#Innate Defense|innate defenses]] are increased by 5 each.
 

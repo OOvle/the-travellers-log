@@ -1,7 +1,10 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:54.034Z
+modified: 2026-10-17T18:02:15.814Z
 ---
-![[Weapons (77).png]]
+
+![[RPG Icons/Items/Weapons/Weapons (77).png]]
 **Stat**: WIS
 **[[8. Items#Weapons|Tags]]**: #Magic, #Tier_1
 **Value**: 1,250 dosh

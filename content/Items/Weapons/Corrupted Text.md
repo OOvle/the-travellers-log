@@ -1,7 +1,10 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:54.030Z
+modified: 2026-10-17T18:02:15.798Z
 ---
-![[Weapons (108).png]]
+
+![[RPG Icons/Items/Weapons/Weapons (108).png]]
 **Stat**: WLL
 **[[8. Items#Weapons|Tags]]**: #Profane, #Tier_1
 **Value**: 950 dosh

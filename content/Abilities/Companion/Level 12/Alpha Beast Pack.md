@@ -1,7 +1,11 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T17:27:23.198Z
+modified: 2026-10-17T18:01:42.800Z
 ---
+
 ##### **Companion Type**: Beast
+
 **Passive**
 
 Your companion becomes an alpha beast. **All other friendly characters within 6 yuels of this companion** deals an additional **1d6 soul damage ([[2. Core Rules#Damage Properties|unblockable]])** when rolling for damage.

@@ -1,7 +1,10 @@
 ---
-publish: "true"
+publish: true
+created: 2026-10-17T18:12:53.979Z
+modified: 2026-10-17T18:02:15.472Z
 ---
-![[Equipment (178).png]]
+
+![[RPG Icons/Items/Equipment/Equipment (178).png]]
 
 Increase your melee damage rolls by +1.
 
