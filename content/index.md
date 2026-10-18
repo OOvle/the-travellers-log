@@ -2,7 +2,7 @@
 publish: true
 title: Welcome to The Traveller's Log
 description: Embark on adventure!
-created: 2026-10-17T19:06:55.199Z
+created: 2026-10-18T12:02:09.364Z
 modified: 2026-10-17T19:18:15.023Z
 ---
 
