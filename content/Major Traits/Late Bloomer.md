@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T19:06:55.252Z
-modified: 2026-10-17T18:02:15.998Z
+modified: 2026-10-18T02:02:49.496Z
 ---
 
 You’re nothing special… For now.
@@ -15,9 +15,11 @@ You’re nothing special… For now.
 **Rank 2 (Level 6):**
 
 - Increase all of your stats by +1, up to a maximum of +7.
+- Choose another [[5. Major Traits|major trait]] (other than Late Bloomer). You gain its rank 1 benefits.
 
 **Rank 3 (Level 12):**
 
 - Increase all of your stats by +2, up to a maximum of +7.
 - You now have **[[3. Character Creation#Prowess|prowess level]] 7 and a d20 [[3. Character Creation#Prowess|prowess die]]**.
 - When rolling [[2. Core Rules#Favor & Disfavor|disfavor]], the roll becomes 1d10 instead of your **[[3. Character Creation#Prowess|prowess die]]**.
+- Your chosen secondary [[5. Major Traits|major trait]] becomes rank 2.

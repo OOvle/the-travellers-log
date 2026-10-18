@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T19:06:55.258Z
-modified: 2026-10-17T18:02:16.047Z
+modified: 2026-10-18T01:56:17.015Z
 ---
 
 # Level 1
@@ -13,6 +13,7 @@ modified: 2026-10-17T18:02:16.047Z
 |   +1   |   +2   |     0      |   0   |  -1   |
 | Health | Energy | Move Speed | Block | Dodge |
 |   10   |   4    |     6      |  1d4  |  1d8  |
+
 **Major Trait**: [[Fighter]]
 **Abilities**:
 

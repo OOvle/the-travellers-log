@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T19:06:55.251Z
-modified: 2026-10-17T18:02:15.981Z
+modified: 2026-10-18T02:00:58.893Z
 ---
 
 You are remarkable at melee combat. Your prowess with weaponry is above most. When you are on the battlefield, your enemies tremble as you are a force to reckon with.
@@ -15,6 +15,7 @@ You are remarkable at melee combat. Your prowess with weaponry is above most. Wh
 
 - When performing a weapon attack, add your **[[3. Character Creation#Prowess|prowess level]]** to the damage total.
 - Your blunt, slash, stab, ranged, and unarmed [[2. Core Rules#Weapon Mastery|weapon mastery]] ranks that are not already 3 becomes rank 3.
+- When you switch weapons or pick up a weapon during your turn, you may attack as part of that action, too.
 
 **Rank 3 (level 10):**
 

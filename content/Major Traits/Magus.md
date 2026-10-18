@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-17T19:06:55.253Z
-modified: 2026-10-17T18:02:16.015Z
+modified: 2026-10-18T01:59:02.087Z
 ---
 
 Skilled in the magical arts, you hone your mind continuously. Controlling the elements as if they were part of your own body.
 
-> "Spell Damage" is a term that is used to refer to the following damage types: **Arcane, Electric, Fire, Freezing, and Poison.**
+> "Spell Damage" is a term that is used to refer to the following damage types, specifically from **[[6. Abilities|abilities]]**: **Arcane, Electric, Fire, Freezing, and Poison**.
 
 **Rank 1:**
 

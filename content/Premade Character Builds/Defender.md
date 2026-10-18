@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T19:06:55.257Z
-modified: 2026-10-17T18:02:16.039Z
+modified: 2026-10-18T01:56:12.628Z
 ---
 
 # Level 1
@@ -13,6 +13,7 @@ modified: 2026-10-17T18:02:16.039Z
 |   -1   |   +1   |     +2     |   0   |   0   |
 | Health | Energy | Move Speed | Block | Dodge |
 |   12   |   5    |     6      | 1d4+1 |  1d8  |
+
 **Major Trait**: [[Guardian]]
 **Abilities**:
 

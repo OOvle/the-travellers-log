@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T19:06:55.260Z
-modified: 2026-10-17T18:02:16.057Z
+modified: 2026-10-18T01:56:20.947Z
 ---
 
 # Level 1
@@ -13,6 +13,7 @@ modified: 2026-10-17T18:02:16.057Z
 |   0    |   -1   |     0      |  +1   |  +2   |
 | Health | Energy | Move Speed | Block | Dodge |
 |   10   |   9    |     6      |  1d4  |  1d8  |
+
 **Major Trait**: [[Magus]]
 **Abilities**:
 
