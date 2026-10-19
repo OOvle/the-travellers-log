@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.219Z
-modified: 2026-10-17T18:02:15.027Z
+created: 2026-10-18T12:02:09.244Z
+modified: 2026-10-19T21:25:56.127Z
+tags:
+  - Action
+  - Magic
 ---
 
 **2 Actions, 1 Energy**

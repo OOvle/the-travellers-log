@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.187Z
-modified: 2026-10-17T18:01:42.686Z
+created: 2026-10-18T12:02:09.208Z
+modified: 2026-10-19T21:15:57.034Z
+tags:
+  - Companion
+  - Passive
 ---
 
 ##### **Companion Type**: Any

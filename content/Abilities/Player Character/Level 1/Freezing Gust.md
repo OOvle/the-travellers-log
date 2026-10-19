@@ -1,7 +1,13 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.214Z
-modified: 2026-10-17T18:02:14.966Z
+created: 2026-10-18T12:02:09.238Z
+modified: 2026-10-19T21:37:15.411Z
+tags:
+  - Action
+  - Resistance_Roll
+  - Magic
+  - Area_of_Effect
+  - Crowd_Control
 ---
 
 **2 Actions, 1 Energy**

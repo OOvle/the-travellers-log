@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.463Z
-modified: 2026-10-17T18:02:15.990Z
+modified: 2026-10-19T21:54:04.269Z
+tags:
+  - Major_Trait
 ---
 
 Your defense is unbreakable. When you take a stand, you are an immovable wall that your opponents simply cannot move past. If anyone if going to break the line of defense, they must get through you first.

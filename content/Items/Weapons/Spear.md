@@ -1,14 +1,18 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.246Z
-modified: 2026-10-17T19:30:27.545Z
+created: 2026-10-18T12:02:09.418Z
+modified: 2026-10-19T21:53:29.254Z
+tags:
+  - Melee
+  - Stab
+  - Reach
+  - 2-Handed
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (68).png]]
 
 **Stat**: AGI or MGT
-
-**[[8. Items#Weapons|Tags]]**: #Melee, #Stab, #Reach, #2-Handed, #Tier_1
 
 **Value**: 750 dosh
 

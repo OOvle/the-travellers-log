@@ -1,14 +1,15 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.241Z
-modified: 2026-10-17T19:29:50.284Z
+created: 2026-10-18T12:02:09.413Z
+modified: 2026-10-19T21:52:15.828Z
+tags:
+  - Sacred
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (109).png]]
 
 **Stat**: WLL
-
-**[[8. Items#Weapons|Tags]]**: #Sacred, #Tier_1
 
 **Value**: 900 dosh
 

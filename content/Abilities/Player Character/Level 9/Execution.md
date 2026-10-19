@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.246Z
-modified: 2026-10-17T18:02:15.324Z
+created: 2026-10-18T12:02:09.292Z
+modified: 2026-10-19T21:36:42.361Z
+tags:
+  - Action
 ---
 
 **2 Actions, 2 Energy**

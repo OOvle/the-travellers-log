@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.247Z
-modified: 2026-10-17T18:02:15.316Z
+created: 2026-10-18T12:02:09.293Z
+modified: 2026-10-19T21:37:08.001Z
+tags:
+  - Reaction
+  - Resistance_Roll
+  - Crowd_Control
 ---
 
 **Reaction, 1 Energy**

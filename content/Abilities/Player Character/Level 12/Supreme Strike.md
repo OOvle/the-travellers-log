@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.225Z
-modified: 2026-10-17T18:02:15.193Z
+created: 2026-10-18T12:02:09.270Z
+modified: 2026-10-19T21:40:00.214Z
+tags:
+  - Action
+  - Status_Effect
 ---
 
 **2 Actions, 4 Energy**

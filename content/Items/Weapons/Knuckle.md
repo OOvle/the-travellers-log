@@ -1,14 +1,17 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.242Z
-modified: 2026-10-17T19:29:53.765Z
+created: 2026-10-18T12:02:09.413Z
+modified: 2026-10-19T21:52:27.506Z
+tags:
+  - Melee
+  - Unarmed
+  - Free-Hand
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (114).png]]
 
 **Stat**: AGI or MGT
-
-**[[8. Items#Weapons|Tags]]**: #Melee, #Unarmed, #Free-Handed, #Tier_1
 
 **Value**: 450 dosh
 

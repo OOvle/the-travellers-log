@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.423Z
-modified: 2026-10-17T18:02:15.972Z
+modified: 2026-10-19T21:53:58.366Z
+tags:
+  - Major_Trait
 ---
 
 You are a skilled craftsman. You spend your days mastering your craft, always looking for ways to make the process more efficient. You aim to craft your magnum opus one day.

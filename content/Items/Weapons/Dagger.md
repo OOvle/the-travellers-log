@@ -1,14 +1,17 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.235Z
-modified: 2026-10-17T19:29:27.559Z
+created: 2026-10-18T12:02:09.406Z
+modified: 2026-10-19T21:51:15.710Z
+tags:
+  - Melee
+  - Stab
+  - Thrown
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (2).png]]
 
 **Stat**: AGI
-
-**[[8. Items#Weapons|Tags]]**: #Melee, #Stab, #Thrown, #Tier_1
 
 **Value**: 950 dosh
 

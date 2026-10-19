@@ -1,7 +1,13 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.354Z
-modified: 2026-10-17T18:02:15.455Z
+modified: 2026-10-19T21:42:43.708Z
+tags:
+  - Beast
+  - Grunt
+  - Small
+  - Medium
+  - Tier_5
 ---
 
 #### [[10. Character Encyclopedia#Categories|Beast]], Grunt

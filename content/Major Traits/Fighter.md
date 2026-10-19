@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.424Z
-modified: 2026-10-18T02:00:58.893Z
+modified: 2026-10-19T21:54:01.797Z
+tags:
+  - Major_Trait
 ---
 
 You are remarkable at melee combat. Your prowess with weaponry is above most. When you are on the battlefield, your enemies tremble as you are a force to reckon with.

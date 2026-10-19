@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.199Z
-modified: 2026-10-17T18:01:42.808Z
+created: 2026-10-18T12:02:09.222Z
+modified: 2026-10-19T21:20:22.638Z
+tags:
+  - Companion
+  - Insect
+  - Action
 ---
 
 ##### **Companion Type**: Insect

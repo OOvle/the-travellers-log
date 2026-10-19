@@ -1,14 +1,17 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.247Z
-modified: 2026-10-17T19:30:30.705Z
+created: 2026-10-18T12:02:09.419Z
+modified: 2026-10-19T21:53:38.865Z
+tags:
+  - Melee
+  - Slash
+  - Stab
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (12).png]]
 
 **Stat**: AGI or MGT
-
-**[[8. Items#Weapons|Tags]]**: #Melee, #Slash, #Stab, #Tier_1
 
 **Value**: 650 dosh
 

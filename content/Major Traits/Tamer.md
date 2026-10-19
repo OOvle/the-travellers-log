@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.489Z
-modified: 2026-10-17T18:02:16.023Z
+modified: 2026-10-19T21:54:17.569Z
+tags:
+  - Major_Trait
 ---
 
 You have a tamed creature that follows your orders and helps you in battle.

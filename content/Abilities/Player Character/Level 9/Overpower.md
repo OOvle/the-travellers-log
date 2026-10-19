@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.247Z
-modified: 2026-10-17T18:02:15.333Z
+created: 2026-10-18T12:02:09.294Z
+modified: 2026-10-19T21:37:32.822Z
+tags:
+  - Reaction
 ---
 
 **Reaction, 2 Energy**

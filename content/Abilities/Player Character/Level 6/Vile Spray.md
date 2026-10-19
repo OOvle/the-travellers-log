@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.244Z
-modified: 2026-10-17T18:02:15.299Z
+created: 2026-10-18T12:02:09.290Z
+modified: 2026-10-19T21:35:37.617Z
+tags:
+  - Action
+  - Resistance_Roll
+  - Status_Effect
 ---
 
 **2 Actions, 2 Energy, 1 minute**

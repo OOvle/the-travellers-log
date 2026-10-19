@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.203Z
-modified: 2026-10-17T18:01:42.856Z
+created: 2026-10-18T12:02:09.227Z
+modified: 2026-10-19T21:19:19.431Z
+tags:
+  - Companion
+  - Floral
+  - Action
 ---
 
 ##### **Companion Type**: Floral

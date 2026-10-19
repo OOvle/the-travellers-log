@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.464Z
-modified: 2026-10-18T02:02:49.496Z
+modified: 2026-10-19T21:54:06.883Z
+tags:
+  - Major_Trait
 ---
 
 You’re nothing special… For now.

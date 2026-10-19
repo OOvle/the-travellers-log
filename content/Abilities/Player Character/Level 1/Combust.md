@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.212Z
-modified: 2026-10-17T18:02:14.937Z
+created: 2026-10-18T12:02:09.236Z
+modified: 2026-10-19T21:24:34.059Z
+tags:
+  - Action
+  - Magic
+  - Resistance_Roll
+  - Status_Effect
 ---
 
 **2 Actions, 1 Energy**

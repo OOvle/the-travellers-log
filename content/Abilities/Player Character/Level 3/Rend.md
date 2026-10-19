@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.232Z
-modified: 2026-10-17T18:02:15.130Z
+created: 2026-10-18T12:02:09.277Z
+modified: 2026-10-19T21:32:07.436Z
+tags:
+  - Reaction
+  - Resistance_Roll
+  - Status_Effect
 ---
 
 **Reaction, 1 Energy**

@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.317Z
-modified: 2026-10-17T18:02:15.369Z
+modified: 2026-10-19T21:40:56.265Z
+tags:
+  - Bloodline
 ---
 
 The Beastkin are a people of many forms, humanoid in frame but bearing the features of beast and bird. Their appearance varies by strain. All Beastkin share a common difficulty with labial sounds due to their non-human mouths, a trait that shapes their language, Loxiq, and their names.
@@ -35,5 +37,3 @@ Similar to the Kanidar, Kulasar (Vulpine) possess fox-like muzzles, pointed ears
 
 1. **Clever Fox:** Increase your dodge [[2. Core Rules#Dice Sizes|dice size]] by 1.
 2. **Scavenger:** When searching or looting, add your **[[3. Character Creation#Prowess|prowess dice]]** to the roll.
-
-#Bloodline

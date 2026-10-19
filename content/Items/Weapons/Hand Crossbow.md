@@ -1,14 +1,15 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.240Z
-modified: 2026-10-17T19:29:47.620Z
+created: 2026-10-18T12:02:09.412Z
+modified: 2026-10-19T21:52:08.151Z
+tags:
+  - Ranged
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (91).png]]
 
 **Stat**: —
-
-**[[8. Items#Weapons|Tags]]**: #Ranged, #Tier_1
 
 **Value**: 750 dosh
 

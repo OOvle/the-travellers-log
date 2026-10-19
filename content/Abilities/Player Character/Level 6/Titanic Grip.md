@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.242Z
-modified: 2026-10-17T18:02:15.282Z
+created: 2026-10-18T12:02:09.289Z
+modified: 2026-10-19T21:34:56.705Z
+tags:
+  - Passive
 ---
 
 **Passive**

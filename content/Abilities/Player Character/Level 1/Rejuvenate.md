@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.219Z
-modified: 2026-10-17T18:02:15.034Z
+created: 2026-10-18T12:02:09.245Z
+modified: 2026-10-19T21:26:10.547Z
+tags:
+  - Action
+  - Restorative
+  - Magic
 ---
 
 **2 Actions, 1 Energy**

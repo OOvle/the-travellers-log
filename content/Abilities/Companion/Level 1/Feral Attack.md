@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.187Z
-modified: 2026-10-17T17:59:37.080Z
+created: 2026-10-18T12:02:09.207Z
+modified: 2026-10-19T21:18:33.137Z
+tags:
+  - Companion
+  - Reaction
+  - Beast
 ---
 
 ##### **Companion Type**: Beast

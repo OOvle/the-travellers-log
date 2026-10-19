@@ -1,14 +1,16 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.242Z
-modified: 2026-10-17T19:29:56.589Z
+created: 2026-10-18T12:02:09.414Z
+modified: 2026-10-19T21:52:42.039Z
+tags:
+  - Melee
+  - Blunt
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (54).png]]
 
 **Stat**: MGT
-
-**[[8. Items#Weapons|Tags]]**: #Melee, #Blunt, #Tier_1
 
 **Value**: 800 dosh
 

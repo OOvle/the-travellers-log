@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.488Z
-modified: 2026-10-17T18:02:16.032Z
+modified: 2026-10-19T21:54:15.249Z
+tags:
+  - Major_Trait
 ---
 
 Your piety is seen across the lands. You carry divine blessing with every step, and people recognize your sanctity.

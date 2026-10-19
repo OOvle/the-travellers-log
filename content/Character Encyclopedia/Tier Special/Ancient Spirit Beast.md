@@ -1,7 +1,13 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.363Z
-modified: 2026-10-17T18:02:15.464Z
+modified: 2026-10-19T21:42:59.418Z
+tags:
+  - Spirit
+  - Beast
+  - General
+  - Massive
+  - Tier_Special
 ---
 
 #### [[10. Character Encyclopedia#Categories|Spirit & Beast]], General

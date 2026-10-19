@@ -1,14 +1,17 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.238Z
-modified: 2026-10-17T19:29:38.946Z
+created: 2026-10-18T12:02:09.409Z
+modified: 2026-10-19T21:51:40.836Z
+tags:
+  - Melee
+  - Slash
+  - 2-Handed
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (42).png]]
 
 **Stat**: MGT
-
-**[[8. Items#Weapons|Tags]]**: #Melee, #Slash, #2-Handed, #Tier_1
 
 **Value**: 1,100 dosh
 

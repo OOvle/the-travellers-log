@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.234Z
-modified: 2026-10-17T18:02:15.159Z
+created: 2026-10-18T12:02:09.280Z
+modified: 2026-10-19T21:32:33.895Z
+tags:
+  - Action
+  - Area_of_Effect
 ---
 
 **2 Actions, 1 Energy**

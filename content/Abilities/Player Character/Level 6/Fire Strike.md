@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.237Z
-modified: 2026-10-17T18:02:15.218Z
+created: 2026-10-18T12:02:09.283Z
+modified: 2026-10-19T21:33:13.350Z
+tags:
+  - Reaction
+  - Magic
 ---
 
 **Reaction, 1 Energy**

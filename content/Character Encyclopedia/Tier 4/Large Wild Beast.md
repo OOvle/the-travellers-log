@@ -1,7 +1,12 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.353Z
-modified: 2026-10-17T18:02:15.447Z
+modified: 2026-10-19T21:42:09.586Z
+tags:
+  - Beast
+  - Grunt
+  - Tier_4
+  - Large
 ---
 
 #### [[10. Character Encyclopedia#Categories|Beast]], Grunt

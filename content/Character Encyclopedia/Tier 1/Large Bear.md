@@ -1,7 +1,12 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.332Z
-modified: 2026-10-17T18:02:15.414Z
+modified: 2026-10-19T21:42:24.461Z
+tags:
+  - Beast
+  - Soldier
+  - Tier_1
+  - Large
 ---
 
 #### [[10. Character Encyclopedia#Categories|Beast]], Soldier

@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.233Z
-modified: 2026-10-17T18:02:15.149Z
+created: 2026-10-18T12:02:09.279Z
+modified: 2026-10-19T21:32:27.524Z
+tags:
+  - Action
+  - Magic
+  - Resistance_Roll
+  - Area_of_Effect
 ---
 
 **2 Actions, 2 Energy, 10 minutes**

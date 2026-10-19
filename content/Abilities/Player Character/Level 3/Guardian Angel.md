@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.229Z
-modified: 2026-10-17T18:02:15.103Z
+created: 2026-10-18T12:02:09.275Z
+modified: 2026-10-19T21:30:47.954Z
+tags:
+  - Action
+  - Status_Effect
+  - Focus
 ---
 
 **2 Actions, 2 Energy, Focus (up to 1 minute)**

@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.224Z
-modified: 2026-10-17T18:02:15.185Z
+created: 2026-10-18T12:02:09.269Z
+modified: 2026-10-19T21:39:47.843Z
+tags:
+  - Action
+  - Focus
 ---
 
 **1 Action, 4 Energy, Focus (up to 1 minute)**

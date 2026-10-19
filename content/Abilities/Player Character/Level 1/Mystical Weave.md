@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.216Z
-modified: 2026-10-17T18:02:14.982Z
+created: 2026-10-18T12:02:09.241Z
+modified: 2026-10-19T21:25:24.378Z
+tags:
+  - Action
+  - Status_Effect
+  - Magic
 ---
 
 **2 Actions, 1 Energy**

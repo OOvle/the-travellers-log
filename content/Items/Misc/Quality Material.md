@@ -1,7 +1,10 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.398Z
-modified: 2026-10-19T14:39:19.277Z
+modified: 2026-10-19T21:49:03.738Z
+tags:
+  - Material
+  - Tier_2
 ---
 
 ![[RPG Icons/Items/Misc/Misc (399).png]]

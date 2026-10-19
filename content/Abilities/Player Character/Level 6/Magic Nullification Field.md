@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.238Z
-modified: 2026-10-17T18:02:15.235Z
+created: 2026-10-18T12:02:09.284Z
+modified: 2026-10-19T21:33:41.211Z
+tags:
+  - Action
+  - Area_of_Effect
+  - Focus
+  - Magic
 ---
 
 **2 Actions, 2 Energy, Focus (up to 10 minutes)**

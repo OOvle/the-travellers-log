@@ -1,14 +1,16 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.232Z
-modified: 2026-10-17T19:29:16.368Z
+created: 2026-10-18T12:02:09.403Z
+modified: 2026-10-19T21:50:50.203Z
+tags:
+  - Ranged
+  - 2-Handed
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (87).png]]
 
 **Stat**: AGI
-
-**[[8. Items#Weapons|Tags]]**: #Ranged, #2-Handed, #Tier_1
 
 **Value**: 700 dosh
 

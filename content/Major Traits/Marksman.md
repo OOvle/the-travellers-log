@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.487Z
-modified: 2026-10-17T18:02:16.004Z
+modified: 2026-10-19T21:54:12.686Z
+tags:
+  - Major_Trait
 ---
 
 You are precise with ranged weaponry. Seemingly never missing your mark, you always find a way to hit even the most “impossible” of shots.

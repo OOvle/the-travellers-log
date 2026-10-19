@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:15.631Z
-modified: 2026-10-17T18:02:16.076Z
+modified: 2026-10-19T21:54:32.164Z
+tags:
+  - Status_Effect
 ---
 
 You are highly conductive to electricity. Whenever another character within 6 yuels of yourself is the target of Electric damage, it chains towards you and you suffer **half of the original damage roll ([[2. Core Rules#Damage Properties|surefire]]).** Damage suffered from this status does not leap to other characters with conduit. When you are the target of Electric damage, you have [[2. Core Rules#Favor & Disfavor|disfavor]] to blocking and dodging the attack.

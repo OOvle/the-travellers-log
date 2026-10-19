@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-10-17T19:06:55.221Z
-modified: 2026-10-17T19:28:29.771Z
+created: 2026-10-18T12:02:09.390Z
+modified: 2026-10-19T21:47:29.402Z
+tags:
+  - Consumable
+  - Restorative
+  - Tier_1
 ---
 
 ![[RPG Icons/Items/Misc/Misc (1).png]]
-
-**[[8. Items#Consumables|Tags]]**: #Consumable, #Restorative, #Tier_1
 
 **Value**: 1,250 dosh
 

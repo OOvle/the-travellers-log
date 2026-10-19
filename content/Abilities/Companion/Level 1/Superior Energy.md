@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.195Z
-modified: 2026-10-17T18:01:42.765Z
+created: 2026-10-18T12:02:09.217Z
+modified: 2026-10-19T21:18:47.484Z
+tags:
+  - Companion
+  - Floral
+  - Passive
 ---
 
 ##### **Companion Type**: Floral

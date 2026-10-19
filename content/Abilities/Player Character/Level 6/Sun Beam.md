@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.241Z
-modified: 2026-10-17T18:02:15.261Z
+created: 2026-10-18T12:02:09.287Z
+modified: 2026-10-19T21:34:26.114Z
+tags:
+  - Action
+  - Magic
+  - Area_of_Effect
 ---
 
 **2 Actions, 3 Energy**

@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-10-17T17:27:23.205Z
-modified: 2026-10-17T18:01:42.873Z
+created: 2026-10-18T12:02:09.228Z
+modified: 2026-10-19T21:19:36.530Z
+tags:
+  - Companion
+  - Beast
+  - Passive
 ---
 
 ##### **Companion Type**: Beast

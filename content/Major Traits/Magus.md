@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.486Z
-modified: 2026-10-18T01:59:02.087Z
+modified: 2026-10-19T21:54:09.429Z
+tags:
+  - Major_Trait
 ---
 
 Skilled in the magical arts, you hone your mind continuously. Controlling the elements as if they were part of your own body.
