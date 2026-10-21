@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.489Z
-modified: 2026-10-19T21:54:17.569Z
+modified: 2026-10-21T11:19:21.248Z
 tags:
   - Major_Trait
 ---
@@ -10,8 +10,7 @@ You have a tamed creature that follows your orders and helps you in battle.
 
 Gain a tamed creature as a companion. You may choose any small or medium sized **Beast, Floral, or Insect** creature. If you would like a large sized companion, you may discuss with your GM what it would be, but the large companion would not gain any mechanical benefits.
 
-- When you level up, you may forego one of your two level up options to gain a new ability for your companion. The options you may select from are based on which type of companion you have (beast, floral, or insect).
-  - **TESTING:** You may use both of your level up options to power up your companion if you so wish.
+- When you level up, you may forego one or both of your level up options to gain new abilities for your companion. The options you may select from are based on which type of companion you have (beast, floral, or insect).
 - Once per [[2. Core Rules#Resting|long rest]], you may **expend 2 energy** to revive your companion if it has perished.
 
 # Tamer Companion Character Sheet
@@ -55,4 +54,4 @@ An insect has the following stats:
 
 ## All Companions
 
-The abilities that the companion may choose can be found on page 61. The damage roll of your companion’s attack is based on your **prowess dice**.
+The abilities that the companion may choose can be [[6. Abilities#Companion Abilities|found here]]. The damage roll of your companion’s attack is based on your **[[3. Character Creation#Prowess|prowess dice]]**.

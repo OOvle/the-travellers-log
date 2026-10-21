@@ -1,9 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.421Z
-modified: 2026-10-19T21:15:05.091Z
-tags:
-  - 
+modified: 2026-10-19T22:01:32.528Z
 ---
 
 The Traveller's Log © 2026 by BlepMuffin
