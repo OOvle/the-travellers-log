@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.348Z
-modified: 2026-10-19T21:42:28.909Z
+modified: 2026-10-27T11:17:42.318Z
 tags:
   - Beast
   - Grunt
@@ -23,7 +23,9 @@ tags:
 ### Abilities
 
 **Overkill**: Passive
+
 When this character takes damage, any damage above its remaining health may be retargeted to another grunt within range of the same attack.
 
 **Bite**: 2 Actions / 0 Energy / Melee (1 yuel)
+
 Deal 1d6 physical damage.

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.406Z
-modified: 2026-10-19T21:51:15.710Z
+modified: 2026-10-26T19:57:28.307Z
 tags:
   - Melee
   - Stab
   - Thrown
   - Tier_1
+  - Concealable
 ---
 
 ![[RPG Icons/Items/Weapons/Weapons (2).png]]
