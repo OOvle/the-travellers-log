@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.350Z
-modified: 2026-10-27T11:18:19.160Z
+modified: 2026-10-30T22:21:36.001Z
 tags:
   - Beast
   - Grunt
@@ -24,7 +24,7 @@ tags:
 
 **Overkill**: Passive
 
-When this character takes damage, any damage above its remaining health may be retargeted to another grunt within range of the same attack.
+When small wild beast takes damage, any damage above its remaining health may be retargeted to another grunt within range of the same attack.
 
 **Bite**: 2 Actions / 0 Energy / Melee (1 yuel)
 

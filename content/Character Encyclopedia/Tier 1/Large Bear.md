@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T12:02:09.332Z
-modified: 2026-10-27T11:17:38.747Z
+modified: 2026-10-31T13:10:03.373Z
 tags:
   - Beast
   - Soldier
@@ -13,7 +13,7 @@ tags:
 
 | Stat | Value | Stat       | Value      |
 | ---- | ----- | ---------- | ---------- |
-| AGI  | 1     | Max Health | 12 (2d4+7) |
+| AGI  | 1     | Max Health | 15 (3d4+7) |
 | MGT  | 3     | Max Energy | 3          |
 | END  | 2     | Move Speed | 6          |
 | WLL  | -1    | Block Roll | 1d4+1      |
